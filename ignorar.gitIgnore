@@ -1,0 +1,6 @@
+#Archivos que no se guardan en el repositorio
+text.txt
+*.dmp
+*.tmp
+
+#Carpetas que no se guardan en el repositorio
